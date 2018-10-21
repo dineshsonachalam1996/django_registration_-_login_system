@@ -17,3 +17,4 @@ It is a full working solution for login and register user in django web framewor
 - username
 - password
 - Github Oauth and Google Oauth
+- Include Admin Panel
