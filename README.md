@@ -16,4 +16,4 @@ It is a full working solution for login and register user in django web framewor
 ### Prameter for both json request 
 - username
 - password
-- Github Oauth
+- Github Oauth and Google Oauth
